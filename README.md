@@ -2,6 +2,7 @@
 https://www.kaggle.com/koichiroyamamura<br>
 ## Projects Overview<br>
 ### ●House Prices - Advanced Regression Techniques(https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)</br>
+#### Domain:/Technique,Model:/Metrics:
 ### ●Titanic - Machine Learning from Disaster(https://www.kaggle.com/competitions/titanic)</br>
 ### ●State Farm Distracted Driver Detection(https://www.kaggle.com/competitions/state-farm-distracted-driver-detection)</br>
 ### ●Natural Language Processing with Disaster Tweets(https://www.kaggle.com/competitions/nlp-getting-started)</>
