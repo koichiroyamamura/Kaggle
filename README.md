@@ -1,7 +1,8 @@
 ## Kaggle Profile Link<br>
 https://www.kaggle.com/koichiroyamamura<br>
 ## Projects Overview<br>
-### ●()</br>
+### ●House Prices - Advanced Regression Techniques(https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)</br>
+### ●Titanic - Machine Learning from Disaster(https://www.kaggle.com/competitions/titanic)</br>
 ### ●Benetech - Making Graphs Accessible(https://www.kaggle.com/competitions/benetech-making-graphs-accessible)</br>
 ### ●IceCube - Neutrinos in Deep Ice(https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice)</br>
 ### ●Happywhale - Whale and Dolphin Identification(https://www.kaggle.com/competitions/happy-whale-and-dolphin)</br>
