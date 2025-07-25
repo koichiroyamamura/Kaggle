@@ -6,3 +6,4 @@ https://www.kaggle.com/koichiroyamamura<br>
 ### ●House Prices - Advanced Regression Techniques(https://www.kaggle.com/c/house-prices-advanced-regression-techniques)</br>
 ### ●H&M Personalized Fashion Recommendations(https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations)</br>
 ### ●LLM Detect AI Generated Text(https://www.kaggle.com/competitions/llm-detect-ai-generated-text)</br>
+### ●BirdCLEF 2021 - Birdcall Identification(https://www.kaggle.com/competitions/birdclef-2021)</br>
