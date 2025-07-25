@@ -2,9 +2,9 @@
 https://www.kaggle.com/koichiroyamamura<br>
 ## Projects Overview<br>
 ### Titanic(https://www.kaggle.com/c/titanic)</br>
-##### genre: Classification(survival prediction)</br>
-##### skill:</br> 
-##### purpose:</br>
+ ##### genre: Classification(survival prediction)</br>
+ ##### skill:</br> 
+ ##### purpose:</br>
 ### House Prices(https://www.kaggle.com/c/house-prices-advanced-regression-techniques)</br>
 #### genre: Regression(housing price prediction)/skill:/purpose:
 ### Home Credit Default Risk(https://www.kaggle.com/competitions/home-credit-default-risk)</br>
