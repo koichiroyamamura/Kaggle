@@ -3,8 +3,9 @@ https://www.kaggle.com/koichiroyamamura<br>
 ## Projects Overview<br>
 ### ●()</br>
 ### ●Benetech - Making Graphs Accessible(https://www.kaggle.com/competitions/benetech-making-graphs-accessible)</br>
-### ●()</br>
-### ●H&M Personalized Fashion Recommendations(https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations)</br>
-### ●LLM - Detect AI Generated Text(https://www.kaggle.com/competitions/llm-detect-ai-generated-text)</br>
+### ●IceCube - Neutrinos in Deep Ice(https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice)</br>
+### ●Happywhale - Whale and Dolphin Identification(https://www.kaggle.com/competitions/happy-whale-and-dolphin)</br>
+### ●OTTO – Multi-Objective Recommender System(https://www.kaggle.com/competitions/otto-recommender-system)</br>
+### ●Kaggle - LLM Science Exam(https://www.kaggle.com/competitions/kaggle-llm-science-exam)</br>
 ### ●BirdCLEF 2021 - Birdcall Identification(https://www.kaggle.com/competitions/birdclef-2021)</br>
 ### ●1st and Future - Player Contact Detection(https://www.kaggle.com/competitions/nfl-player-contact-detection)</br>
