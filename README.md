@@ -2,20 +2,26 @@
 https://www.kaggle.com/koichiroyamamura<br>
 ## Projects Overview<br>
 ### Titanic(https://www.kaggle.com/c/titanic)</br>
- ##### genre: Classification(survival prediction)</br>
- ##### skill:</br> 
- ##### purpose:</br>
+#### genre: Classification(survival prediction)</br>
+#### skill:</br> 
 ### House Prices(https://www.kaggle.com/c/house-prices-advanced-regression-techniques)</br>
-#### genre: Regression(housing price prediction)/skill:/purpose:
+#### genre: Regression(housing price prediction)</br>
+#### skill:</br>
 ### Home Credit Default Risk(https://www.kaggle.com/competitions/home-credit-default-risk)</br>
-#### genre: Classification(default prediction)/skill:/purpose:
+#### genre: Classification(default prediction)</br>
+#### skill:</br>
 ### NFL Player Contact Detection(https://www.kaggle.com/competitions/nfl-player-contact-detection)</br>
-#### genre: Image + time series(contact detection)/skill:/purpose:
+#### genre: Image + time series(contact detection)</br>
+#### skill:</br>
 ### H&M Personalized Fashion Recommendations(https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations)</br>
-#### genre: Recommendation(fashion items)/skill:/purpose:
+#### genre: Recommendation(fashion items)
+#### skill:</br>
 ### NLP with Disaster Tweets(https://www.kaggle.com/c/nlp-getting-started/)</br>
-#### genre: Natural language processing(classification of disaster tweets)/skill:/purpose:
+#### genre: Natural language processing(classification of disaster tweets)</br>
+#### skill:</br>
 ### Digit Recognizer(https://www.kaggle.com/c/digit-recognizer/)</br>
-#### genre: Image classification(handwritten digits)/skill:/purpose:
+#### genre: Image classification(handwritten digits)</br>
+#### skill</br>
 ### Mall Customer Segmentation(https://www.kaggle.com/datasets/rahmamostafafahmy/mall-customer-segmentation)</br>
-#### genre: Clustering(customer segmentation)/skill:/purpose:
+#### genre: Clustering(customer segmentation)</br>
+#### skill</br>
