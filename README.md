@@ -1,6 +1,6 @@
 ## Kaggle Profile Link<br>
 https://www.kaggle.com/koichiroyamamura<br>
-## Projects Overview<br>
+## Projects</br>
 ### Titanic(https://www.kaggle.com/c/titanic)</br>
 ### House Prices(https://www.kaggle.com/c/house-prices-advanced-regression-techniques)</br>
 ### Home Credit Default Risk(https://www.kaggle.com/competitions/home-credit-default-risk)</br>
