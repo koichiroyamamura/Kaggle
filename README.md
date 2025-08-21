@@ -1,4 +1,4 @@
-## Kaggle Profile Link<br>
+## Kaggle Profile <br>
 https://www.kaggle.com/koichiroyamamura<br>
 ## Projects</br>
 ### Titanic(https://www.kaggle.com/c/titanic)</br>
